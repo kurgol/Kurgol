@@ -1,6 +1,6 @@
 ### Hello there
 
-GitHub support & [Lave Radio](https://laveradio.com/) crew. LARPer, Gamer. Anxious. Dyslexic. My views are my own (he/him).
+GitHub support. LARPer, Gamer. Anxious. Dyslexic. My views are my own (he/him).
 
 <!--
 **Kurgol/Kurgol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
