@@ -1,4 +1,4 @@
-![knight-quarter](https://user-images.githubusercontent.com/15245142/205033944-a7106166-ba50-4167-aeeb-4446baddd5f0.jpg)
+![knight-half](https://user-images.githubusercontent.com/15245142/205034638-e09956fd-cf45-4427-b7df-3bf09df27241.jpg)
 
 # Hello there
 
